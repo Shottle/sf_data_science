@@ -8,7 +8,7 @@ count = 0   #Счетчик количества попыток
 
 while True:
     count +=1
-    predict_number = int(input('Угадай число от 1 до 100 2'))
+    predict_number = int(input('Угадай число от 1 до 100: '))
     
     if predict_number > number:
         print('Число должно быть меньше')
