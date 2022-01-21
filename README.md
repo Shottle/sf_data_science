@@ -1,4 +1,4 @@
-# My first data science prodject
+# My first data science project
 
 Game from SkillFactory Data Science curse (https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DSPR-2.0+14JULY2021/course/)
 
